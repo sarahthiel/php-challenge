@@ -48,7 +48,7 @@ bash-4.4# php app/console doctrine:fixtures:load
 ```
 
 
-Site is available at: http://localhost:9080, xdebug is listening at port 9002, you find the API calls available at http://localhost:9080/api/docs 
+Site is available at: http://localhost:9080, xdebug is listening at port 9002, you find the API calls available at http://localhost:9080/api/doc 
 
 
 To run the tests enter the container and run:
